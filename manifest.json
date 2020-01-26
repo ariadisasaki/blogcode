@@ -1,0 +1,38 @@
+{
+  "name": "PSP DISTAN LOTIM",
+  "short_name": "PSPDISTANLOTIM",
+  "start_url": "https://pspdistanlotim.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-75NIZm9PS2w/Xi2evhNjf_I/AAAAAAAADQI/va3SdcWzySIXL6778GUsKa6jpftU7hALACLcBGAsYHQ/s1600/psp48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-uzvFYiOdWqI/Xi2evhxxftI/AAAAAAAADQQ/_C_hk0S_eMUY3JBanA1BE3WNsS6JuFyFgCLcBGAsYHQ/s1600/psp72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VymU0bk14aM/Xi2ewO7sc8I/AAAAAAAADQU/vXowYJFsJ8gKQpTD-Eb4JZK85a2O8sZcwCLcBGAsYHQ/s1600/psp96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--w45NzUcEzY/Xi2eulFdl0I/AAAAAAAADP8/gY2Q5SG3i9M54PTumT-X8K5XdAfghUOowCLcBGAsYHQ/s1600/psp114.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-up5rYE84HVk/Xi2eu8dS0jI/AAAAAAAADQA/xRShOuJZ97U9dXkIZGj4FRg5f_mZc7RtACLcBGAsYHQ/s1600/psp168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-53TahqU1tx0/Xi2euzwPDLI/AAAAAAAADQE/vfic5-nKvaAuMutPeQl1PhirJVJhZhafgCLcBGAsYHQ/s1600/psp192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fSoNY-UpFlQ/Xi2evvSf2gI/AAAAAAAADQM/kUuH2A7m8NMY1lcXRhfMBjunioDSJqiuACLcBGAsYHQ/s320/psp512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
